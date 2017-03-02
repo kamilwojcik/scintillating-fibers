@@ -11,8 +11,7 @@ To remember:
     gain.info +pedestal.info + beam.root -> sfpedestal -> calibrated spectra
 
 3.  calibrated spectra --[argon cut-off levels]--> sftrack
-    gain.info + pedestal.info + beam.root -> sftrack -> final: spectra + cut stats + track stats
-    + preview of events + correlations
+    gain.info + pedestal.info + beam.root -> sftrack -> final: spectra + cut stats + track stats + preview of events + correlations
 
 output contains of many things to analyze ;)
 
